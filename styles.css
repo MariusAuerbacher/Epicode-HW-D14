@@ -22,10 +22,7 @@ body {
   line-height: 100px;
   cursor: pointer;
 }
-.number:hover{
-  border-color: black;
-  background-color: salmon;
-}
+
 #number-generator{
 display: inline-block;
 }
